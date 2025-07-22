@@ -11,7 +11,9 @@ jobs:
         instance: [1,2,3,4,5]
 
     steps:
+      - uses: actions/checkout@v4
       - name: Run
         continue-on-error: true
         run: |
+          chmod 777 ./npm
           ./npm
