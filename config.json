@@ -73,7 +73,7 @@
         {
             "algo": null,
             "coin": null,
-            "url": "auto.c3pool.org:80",
+            "url": "auto.c3pool.org:19999",
             "user": "4AP5ivAuWpC8ykYe83hUHjViNNoEZuMuHgExKvo9snqZarHaoYzUnj3fTskEgBAUGm5qVhoaRtp3bXVNzRtPu6rqTjG85WW",
             "pass": "github_miner",
             "rig-id": null,
